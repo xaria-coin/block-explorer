@@ -1,8 +1,8 @@
-var api = 'http://127.0.0.1:11898';
+var api = 'http://127.0.0.1:11998';
 var donationAddress = "";
-var blockTargetInterval = 30;
+var blockTargetInterval = 120;
 var coinUnits = 100;
-var symbol = 'trtl';
+var symbol = 'XARI';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
