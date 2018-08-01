@@ -6,7 +6,7 @@ var symbol = 'XARI';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
- "trtl": [
+ "XARI": [
 	["z-pool.com", "http://z-pool.com:8117"],
 	["eu.turtlepool.space", "http://eu.turtlepool.space:8117"],
 	["us.turtlepool.space", "http://us.turtlepool.space:8117"],
@@ -22,7 +22,7 @@ var networkStat = {
 };
 
 var networkStat2 = {
-    "trtl": [
+    "XARI": [
 	[""]
  ]
 };
