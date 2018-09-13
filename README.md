@@ -1,4 +1,4 @@
-# TurtleCoin-Blockchain-Explorer - modified for use with xaria
+# Xaria-Blockchain-Explorer
 Block explorer for xaria CryptoNote based cryptocurrency.
 
 #### Installation
