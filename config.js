@@ -7,7 +7,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "XARI": [
-	["Main Pool", "http://mine.xaria.xyz:8117"]
+	["Main Pool", "http://mine.xaria.xyz:8117/stats"]
  ]
 };
 
