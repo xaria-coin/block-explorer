@@ -11,7 +11,7 @@ var networkStat = {
 	["xari.worktipspool.xyz", "http://xari.worktipspool.xyz:8117"],
 	["xaria.multiminer.us", "http://xaria.multiminer.us:8117"],
 	["xaria.yourmine.xyz", "http://xaria.yourmine.xyz:8117"],
-	["xari.thepiratemine.nl", "http://xari.thepiratemine.nl:2898"]
+	["xari.thepiratemine.nl", "https://xari.thepiratemine.nl:2898"]
  ]
 };
 
